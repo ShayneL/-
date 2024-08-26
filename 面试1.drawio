@@ -110,31 +110,31 @@
           <mxGeometry x="540" y="460" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-38" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="223.75" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1400" y="138.75" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-39" value="人群圈选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="161.25" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1400" y="76.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-40" value="事件监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="222.5" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1270" y="137.5" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-42" value="奖励" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="221.25" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1530" y="136.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-43" value="任务流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="291.25" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1400" y="206.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-44" value="用户任务查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="85" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1140" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-45" value="数据监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="85" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1610" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-46" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="85" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1730" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-47" value="清结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="291.25" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1530" y="206.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O2-hVy0NoaZudDnbtpv-48" target="9O2-hVy0NoaZudDnbtpv-50">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="1804" y="376.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-52" value="骑手端查询服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="365" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1310" y="376.25" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O2-hVy0NoaZudDnbtpv-55" target="9O2-hVy0NoaZudDnbtpv-48">
           <mxGeometry relative="1" as="geometry" />
@@ -246,6 +246,12 @@
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-94" value="任务流水" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1555" y="715" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9O2-hVy0NoaZudDnbtpv-95" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="500" width="929" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9O2-hVy0NoaZudDnbtpv-96" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1546" y="345" width="10" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
