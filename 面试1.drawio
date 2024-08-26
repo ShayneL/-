@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="uhqJsvt_ejCMpK2pkjkp">
-    <mxGraphModel dx="1887" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,11 +193,8 @@
         <mxCell id="9O2-hVy0NoaZudDnbtpv-63" value="骑手行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1095" y="590" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9O2-hVy0NoaZudDnbtpv-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9O2-hVy0NoaZudDnbtpv-64" target="9O2-hVy0NoaZudDnbtpv-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-64" value="task-config" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1493" y="715" width="60" height="60" as="geometry" />
+          <mxGeometry x="1450" y="715" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-67" value="人群圈选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="442.5" width="110" height="47.5" as="geometry" />
@@ -236,7 +233,7 @@
           <mxGeometry x="2020" y="626" width="110" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-90" value="misssion生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="561" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1793" y="565.75" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-91" value="任务流程&lt;div&gt;执行引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1544" y="650" width="110" height="47.5" as="geometry" />
@@ -246,6 +243,9 @@
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-93" value="mission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1190" y="828" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9O2-hVy0NoaZudDnbtpv-94" value="任务流水" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="715" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
