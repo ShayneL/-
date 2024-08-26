@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="uhqJsvt_ejCMpK2pkjkp">
-    <mxGraphModel dx="2190" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
           <mxGeometry x="1644" y="565" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-50" value="日志记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1493" y="652.5" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="1420" y="650" width="110" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-71" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9O2-hVy0NoaZudDnbtpv-51" target="9O2-hVy0NoaZudDnbtpv-68">
           <mxGeometry relative="1" as="geometry">
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="9O2-hVy0NoaZudDnbtpv-90" value="misssion生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="565" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9O2-hVy0NoaZudDnbtpv-91" value="任务流程&lt;div&gt;执行引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1544" y="650" width="110" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
