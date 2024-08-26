@@ -114,43 +114,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-41" value="用户行为交互" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="-110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-105" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dDpDXuMlu2zKfhhWI8P_-42" target="dDpDXuMlu2zKfhhWI8P_-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-42" value="请求过滤" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="-110" width="120" height="60" as="geometry" />
+          <mxGeometry x="35" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dDpDXuMlu2zKfhhWI8P_-44" target="dDpDXuMlu2zKfhhWI8P_-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-44" value="规则判断" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="-110" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-46" value="触发发放群益" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-110" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dDpDXuMlu2zKfhhWI8P_-48" target="dDpDXuMlu2zKfhhWI8P_-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-48" value="获取实时画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-210" width="50" height="60" as="geometry" />
+          <mxGeometry x="300" y="-160" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dDpDXuMlu2zKfhhWI8P_-49" target="dDpDXuMlu2zKfhhWI8P_-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-49" value="需要哪些数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-210" width="50" height="60" as="geometry" />
+          <mxGeometry x="230" y="-160" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dDpDXuMlu2zKfhhWI8P_-51" target="dDpDXuMlu2zKfhhWI8P_-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-51" value="规则判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-210" width="50" height="60" as="geometry" />
+          <mxGeometry x="370" y="-160" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dDpDXuMlu2zKfhhWI8P_-53" value="规则判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-210" width="50" height="60" as="geometry" />
+          <mxGeometry x="440" y="-160" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
